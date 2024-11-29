@@ -58,7 +58,7 @@
 		"history": "4.7.2",
 		"hookshot": "0.1.0",
 		"jest": "23.6.0",
-		"jquery": "2.2.0",
+		"jquery": "3.5.0",
 		"lodash": "4.1.0",
 		"moment": "2.24.0",
 		"mongodb": "2.0.49",

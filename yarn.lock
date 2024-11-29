@@ -6373,10 +6373,10 @@ jest@23.6.0:
     import-local "^1.0.0"
     jest-cli "^23.6.0"
 
-jquery@2.2.0:
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/jquery/-/jquery-2.2.0.tgz#d0e84ebbf199da51bf7ec39307f19b35754e9cba"
-  integrity sha1-0OhOu/GZ2lG/fsOTB/GbNXVOnLo=
+jquery@3.5.0:
+  version "3.5.0"
+  resolved "https://registry.yarnpkg.com/jquery/-/jquery-3.5.0.tgz#9980b97d9e4194611c36530e7dc46a58d7340fc9"
+  integrity sha512-Xb7SVYMvygPxbFMpTFQiHh1J7HClEaThguL15N/Gg37Lri/qKyhRGZYzHRyLH8Stq3Aow0LsHO2O2ci86fCrNQ==
 
 js-base64@^2.1.8:
   version "2.6.4"
@@ -10114,8 +10114,9 @@ socket.io-adapter@0.5.0:
     debug "2.3.3"
     socket.io-parser "2.3.1"
 
-"socket.io-adapter@github:automattic/socket.io-adapter#de5cba":
+socket.io-adapter@automattic/socket.io-adapter#de5cba:
   version "0.3.1"
+  uid de5cba46ce3e21bac3bccae011d81a7b5caad1ba
   resolved "https://codeload.github.com/automattic/socket.io-adapter/tar.gz/de5cba46ce3e21bac3bccae011d81a7b5caad1ba"
   dependencies:
     debug "1.0.2"
